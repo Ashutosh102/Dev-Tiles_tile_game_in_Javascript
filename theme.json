@@ -1,0 +1,13 @@
+﻿{
+  "information":{
+    "name":"JiMu",
+    "author":"",
+    "link":"",
+    "ver":"1.0",
+    "width":1920,
+    "height":1080,
+    "scaleStyle":"fill",
+    "kind":"web",
+    "backgroundSrc":"index.html"
+  }
+}
